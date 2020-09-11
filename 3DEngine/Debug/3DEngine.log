@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Texture.cpp
+  TextManager.cpp
+  Sprite.cpp
+  Shaders.cpp
+  SceneManager.cpp
+  ResourceManager.cpp
+  Object.cpp
+  Model.cpp
+  HeightMap.cpp
+  Camera.cpp
+  AnimSprite.cpp
+  Animation.cpp
+  Generating Code...
+  3DEngine.vcxproj -> C:\Training\Infinitty\\BIN\3DEngine.lib
